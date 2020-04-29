@@ -21,7 +21,7 @@
     "body-parser": "^1.18.2",
     "canvas-constructor": "github:kyranet/canvasConstructor#2.0",
     "discord.js": "^11.2.1",
-    "ejs": "^2.5.7",
+    "ejs": "^3.1.2",
     "enmap": "^0.4.1",
     "enmap-level": "^1.0.0",
     "express": "^4.16.1",
